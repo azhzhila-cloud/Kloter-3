@@ -9,6 +9,12 @@ JSON (JavaScript Object Notation) adalah sebuah format data yang digunakan untuk
 
 Hal ini membuat JSON menjadi bahasa yang ideal untuk perturakan data antar aplikasi.
 
+<h2> Soal Nomor 1, 2 dan 5 </h2>
+Dapat dijalankan menggunakan console browser atau di <a href="https://es6console.com/"> es6concole.com </a>
+
+<h2> Soal Nomor 3 dan 4 </h2>
+Download file nomor 3 dan 4, kemudian taruh di xampp folder htdocs </br>
+Untuk menjalankannya Anda masuk ke localhost/namafile.php
 
 <h2>Nomor 6 A</h2>
 berikut screenshoot jawaban soal nomor 6 point A</br>
